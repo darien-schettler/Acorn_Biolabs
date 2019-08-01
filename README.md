@@ -1,6 +1,7 @@
 # Acorn_Biolabs
 
-<ul>Exploration of:
+## Exploration Of
+<ul>
   <li>BeautifulSoup</li>
   <li>BioPython</li>
   <li>DNA Phenotyping</li>
